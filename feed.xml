@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>tag:eesakiz.com,2025:blog</id>
+  <title>eesakiz.com</title>
+  <updated>2025-05-01T23:35:20Z</updated>
+  <generator>eesakiz.com</generator>
+  <author>
+    <name>Eyüp Ensar Sakız</name>
+  </author>
+  <link rel="alternate" href="https://eesakiz.com" />
+  <link rel="self" href="https://eesakiz.com/feed.xml" />
+  <subtitle>Eyüp Ensar Sakız Blogu</subtitle>
+
+  <entry>
+    <title type="html"><![CDATA[Kuzey Makedonya]]></title>
+    <id>tag:eesakiz.com,2025:kuzey-makedonya</id>
+    <link href="https://eesakiz.com/f/kuzey-makedonya" />
+    <updated>2025-05-01T23:35:20Z</updated>
+    <content type="html"><![CDATA[<img src="https://img1.wsimg.com/isteam/ip/65a7e276-8a45-4a7c-ae15-e69fd6fb1915/makedonyaflag.jpg"/><p>Kuzey Makedonya'da yaşadığım deneyimler.</p>]]></content>
+  </entry>
+
+  <entry>
+    <title type="html"><![CDATA[Arnavutluk]]></title>
+    <id>tag:eesakiz.com,2025:arnavutluk</id>
+    <link href="https://eesakiz.com/f/arnavutluk" />
+    <updated>2025-05-01T23:32:53Z</updated>
+    <content type="html"><![CDATA[<img src="https://img1.wsimg.com/isteam/ip/65a7e276-8a45-4a7c-ae15-e69fd6fb1915/arnavutlukflag.webp"/><p>Arnavutluk'ta yaşadığım deneyimler.</p>]]></content>
+  </entry>
+
+  <entry>
+    <title type="html"><![CDATA[Karadağ]]></title>
+    <id>tag:eesakiz.com,2025:karadag</id>
+    <link href="https://eesakiz.com/f/karadag" />
+    <updated>2025-05-01T23:31:29Z</updated>
+    <content type="html"><![CDATA[<img src="https://img1.wsimg.com/isteam/ip/65a7e276-8a45-4a7c-ae15-e69fd6fb1915/karadagflag.webp"/><p>Karadağ'da yaşadığım deneyimler.</p>]]></content>
+  </entry>
+
+  <entry>
+    <title type="html"><![CDATA[Bosna Hersek]]></title>
+    <id>tag:eesakiz.com,2025:bosna-hersek</id>
+    <link href="https://eesakiz.com/f/bosna-hersek" />
+    <updated>2025-05-01T23:29:21Z</updated>
+    <content type="html"><![CDATA[<img src="https://img1.wsimg.com/isteam/ip/65a7e276-8a45-4a7c-ae15-e69fd6fb1915/bosniaflag.webp"/><p>Bosna Hersek'te yaşadığım deneyimler.</p>]]></content>
+  </entry>
+
+  <entry>
+    <title type="html"><![CDATA[Amerika]]></title>
+    <id>tag:eesakiz.com,2025:amerika</id>
+    <link href="https://eesakiz.com/f/amerika" />
+    <updated>2025-05-01T23:24:09Z</updated>
+    <content type="html"><![CDATA[<img src="https://img1.wsimg.com/isteam/ip/65a7e276-8a45-4a7c-ae15-e69fd6fb1915/usaflag.jpg"/><p>Amerika'da yaşam hakkında</p>]]></content>
+  </entry>
+</feed>
